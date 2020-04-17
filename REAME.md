@@ -71,7 +71,7 @@ management folder '/var/www/' in Linux system. In the directory 'directus', fold
 * The python 3 environment with packages listed in Prerequisites and a Python IDE
 
 ## Install the test framework for IOT API
-1. Clone the repository of this project.
+1. Clone the repository of this project to your local machine.
 2. Modify the configuration file located in '/config' directory. It should contain the authentication information, 
 project name as well as the HOST_IP of your test server. 
 3. It should be noted that, the dummy information that are shared by multiple test cases, can be defined as a test base 
