@@ -44,6 +44,7 @@ Python 3 is used when this project is constructed. This project requires the fol
   * requests
   * unittest
   * json
+  * datetime
   
 Python 3 can be acquired at the [official website](https://www.python.org/), download page. 
  To check which packages have already been installed in your python 3 environment, you can run the following command in your
