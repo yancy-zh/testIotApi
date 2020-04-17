@@ -1,0 +1,17 @@
+{
+    "connection":{
+      "project": "mySampleProject",
+      "host": "192.168.178.31",
+      "port": "80",
+      "username": "admin@directus.com",
+      "password": "Password",
+      "initial_token": "t0k3n"
+    },
+        "cid": [
+        "living room",
+        "bed room",
+        "kitchen",
+        "balcony",
+        "bathroom"
+        ]
+}
