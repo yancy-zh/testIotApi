@@ -62,7 +62,8 @@ you should see the installation page:
 ```
 localhost/admin/#/install/
 ```
-![Installation page of directus project](/resource/installation page of directus project.png)
+![installation_page_of_directus_project](https://user-images.githubusercontent.com/60941643/82092533-c12a0100-96f9-11ea-9b30-29fe016e3323.png)
+
 * A virtual host named 'directus' is established, which appears as a directory with the same name in the domain 
 management folder '/var/www/' in Linux system. In the directory 'directus', folders such as 'src', 'bin', 'config' should show.
 * After a Directus project is created, when accessing the IP of your local host, which is usually http://HOST_IP, the
