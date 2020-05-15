@@ -68,7 +68,8 @@ localhost/admin/#/install/
 management folder '/var/www/' in Linux system. In the directory 'directus', folders such as 'src', 'bin', 'config' should show.
 * After a Directus project is created, when accessing the IP of your local host, which is usually http://HOST_IP, the
  apache server will be redirecting you to the Directus application login page 'http://HOST_IP/admin/#/login'
- ![Login page of directus project](/resource/login page of directus project.png)
+![login_page_of_directus_project](https://user-images.githubusercontent.com/60941643/82092742-2251d480-96fa-11ea-94fa-92172ec062c4.png)
+
 * A project in Directus which you can login with the admin user you have defined
 * The python 3 environment with packages listed in Prerequisites and a Python IDE
 
