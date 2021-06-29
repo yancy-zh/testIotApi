@@ -22,7 +22,8 @@ RAM容量超过16GB的电脑将需要更多的硬盘空间来进行休眠和缓�
 DVD-ROM drive
 其功能应被设置为能够配置
 # 优势
-建立自己的网络主机（webhost）而不需。静态网站只需服务器中存储所用的html和数据文件。
+建立自己的网络主机（webhost），创建一个静态网站，只需存储所用的html和数据文件。
+To learn the full procedure of how the test of a project is established, refer to the article [https://www.webmasterworld.com/forum48/2432.htm] (https://www.webmasterworld.com/forum48/2432.htm)
 # 明确使用场景
 测试
 # 背景
