@@ -21,7 +21,8 @@ Computers with more than 16 GB of RAM will require more disk space for paging, h
 - Drive DVD 光驱
 DVD-ROM drive
 其功能应被设置为能够配置
-# 背景：devOps模式的开发已经成为软件开发的主要方式，软件后端功能随着商业需求、商业逻辑的变化不断升级，因此必要的接口功能回归测试也需要更为频繁的进行。
+# 背景
+devOps模式的开发已经成为软件开发的主要方式，软件后端功能随着商业需求、商业逻辑的变化不断升级，因此必要的接口功能回归测试也需要更为频繁的进行。
 The following instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 To acquire the basic environment for setting up a server that hosts websites and web apps, use LAMP stack. To install and
  test out the functions of this framework, a test server that includes the basic structure of Directus 
