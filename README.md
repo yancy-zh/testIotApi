@@ -1,10 +1,27 @@
 # A simple framework for tests with IOT API
-
-This is a project to enable the basic automated tests for the IOT based API functionality as you have a server on your local machine or remotely. Here, the test framework is built on a server template, powered and published by [Directus](https://docs.directus.io), a complete suite of for API definition, endpoints and repository
+简单的测试框架，用来测试IOT后端API。
+This is a project to enable the basic automated tests for the IOT based API functionality as you have a server on your local machine or remotely. 
+后端API包括以下功能：
+Here, the test framework is built on a server template, powered and published by [Directus](https://docs.directus.io), a complete suite of API definition, endpoints and repository
  for a typical IOT ecosystem. The features presented in this software include both static and dynamic objects that are 
  commonly used in the IOT oriented web services. 
- 
+# A simple framework for tests with IOT API
 ## Prerequisites
+需要的条件：基本的测试环境包括一台装有数据库软件的电脑，通常我们选用装有Linux系统的旧笔记本电脑，例如建议配置如下：
+Component	Requirement
+Processor
+Server System Certification testing requires that the Server Under Test be populated w/ the maximum number of processors the system supports.
+Memory
+Server System Certification testing requires that the Server Under Test be populated w/ the maximum amount of memory the system supports for the fastest clock speed supported by the system.
+Disk space
+Minimum: 10 GB
+Recommended: 40 GB or greater
+Note
+Computers with more than 16 GB of RAM will require more disk space for paging, hibernation, and dump files
+Drive
+DVD-ROM drive
+其功能应被设置为能够配置
+背景：devOps模式的开发已经成为软件开发的主要方式，软件后端功能随着商业需求、商业逻辑的变化不断升级，因此必要的接口功能回归测试也需要更为频繁的进行。
 The following instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 To acquire the basic environment for setting up a server that hosts websites and web apps, use LAMP stack. To install and
  test out the functions of this framework, a test server that includes the basic structure of Directus 
