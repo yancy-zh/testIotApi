@@ -14,10 +14,10 @@ Server System Certification testing requires that the Server Under Test be popul
 - Memory 内存
 Server System Certification testing requires that the Server Under Test be populated w/ the maximum amount of memory the system supports for the fastest clock speed supported by the system.
 - Disk space 硬盘空间
-Minimum: 10 GB
-Recommended: 40 GB or greater
+Minimum(最小): 10 GB
+Recommended（建议）: 40 GB or greater
 - Note 注意
-Computers with more than 16 GB of RAM will require more disk space for paging, hibernation, and dump files
+RAM容量超过16GB的电脑将需要更多的硬盘空间来进行休眠和缓存操作。Computers with more than 16 GB of RAM will require more disk space for paging, hibernation, and dump files
 - Drive DVD 光驱
 DVD-ROM drive
 其功能应被设置为能够配置
