@@ -6,8 +6,8 @@ Here, the test framework is built on a server template, powered and published by
  for a typical IOT ecosystem. The features presented in this software include both static and dynamic objects that are 
  commonly used in the IOT oriented web services. 
 # A simple framework for tests with IOT API
-## Prerequisites
-需要的条件：基本的测试环境包括一台装有数据库软件的电脑，通常我们选用装有Linux系统的旧笔记本电脑，例如建议配置如下：
+## Prerequisites 
+一台测试服务器是用来作为客户端访问应用程序时，后台数据的存储和服务源，服务器需要正常运行，客户端才能进行访问，同时，在研发阶段，为测试应用的功能和性能，基本的测试环境需要有一台专门用来当服务器的电脑，它可以搭载windows或linux系统，通常通常我们选用装有Linux系统的旧笔记本电脑，因为它比较易于安装数据库软件的电脑（例如Apache），建议配置如下：
 Component	Requirement
 - Processor 处理器
 Server System Certification testing requires that the Server Under Test be populated w/ the maximum number of processors the system supports.
@@ -20,7 +20,9 @@ Recommended（建议）: 40 GB or greater
 RAM容量超过16GB的电脑将需要更多的硬盘空间来进行休眠和缓存操作。Computers with more than 16 GB of RAM will require more disk space for paging, hibernation, and dump files
 - Drive DVD 光驱
 DVD-ROM drive
-其功能应被设置为能够配置
+
+## network conditions
+- 
 # 优势
 建立自己的网络主机（webhost），创建一个静态网站，只需存储所用的html和数据文件。
 To learn the full procedure of how the test of a project is established, refer to the article [https://www.webmasterworld.com/forum48/2432.htm] (https://www.webmasterworld.com/forum48/2432.htm)
