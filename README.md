@@ -21,6 +21,10 @@ RAM容量超过16GB的电脑将需要更多的硬盘空间来进行休眠和缓�
 - Drive DVD 光驱
 DVD-ROM drive
 其功能应被设置为能够配置
+# 优势
+建立自己的网络主机（webhost）而不需。静态网站只需服务器中存储所用的html和数据文件。
+# 明确使用场景
+测试
 # 背景
 devOps模式的开发已经成为软件开发的主要方式，软件后端功能随着商业需求、商业逻辑的变化不断升级，因此必要的接口功能回归测试也需要更为频繁的进行。
 The following instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
